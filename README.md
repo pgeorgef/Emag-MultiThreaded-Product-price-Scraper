@@ -6,7 +6,7 @@
   * Bs4
    
 ### How to use
-  * After you compile the main.py file you will be requested to input a product name (example: Samsung, Apple etc) 
+  * After you run the main.py file you will be requested to input a product name (example: Samsung, Apple etc) 
   in the end the script will output a csv file that cotains the name, the link and the price.
 
 ### Possible issues that may appear
